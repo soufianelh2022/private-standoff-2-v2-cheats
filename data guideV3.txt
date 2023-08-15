@@ -42,12 +42,12 @@
 },
   "my_data":[
   {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+   "photo1":"https://iili.io/HDUjdaS.webp"},
+  {"desc2":"In the ever-evolving landscape of mobile gaming, Private Standoff 2 emerges as a dynamic and riveting first-person shooter (FPS) that caters to the competitive spirit of gamers","photo2":"https://iili.io/HDUw67I.webp"},
+  {"desc3":"Offering an immersive experience characterized by strategic gameplay, captivating graphics, and an engaging community","photo3":"https://iili.io/HDUNbZg.webp"},
+  {"desc4":"Private Standoff 2 takes players on an adrenaline-fueled journey into the heart of intense combat scenarios.","photo4":"https://iili.io/HDUMimJ.webp"},
+  {"desc5":"Private Standoff 2 revolves around the strategic prowess and skill of players. Set in a fictional universe, this FPS delivers a comprehensive array of weaponry","photo5":"https://iili.io/HDUNpna.webp"},
+  {"descd":"equipment, and maps that encourage players to devise and execute tactical maneuvers. As a testament to its commitment to strategy","photod":"https://iili.io/HDUNyMJ.webp"}
    ]
  
 }
